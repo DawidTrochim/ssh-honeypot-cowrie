@@ -101,7 +101,7 @@ Repeated command execution patterns indicate scripted attacks.
 
 Verified that no firewall or controls were blocking inbound attempts.
 
-![No Blocking](./screenshots/no_login_attempts_blocked.png)
+![No Blocking](screenshots/no_login_attempts_blocked.png)
 
 ---
 
